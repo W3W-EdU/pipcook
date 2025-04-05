@@ -20,7 +20,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@pipcook/core": "^2.1.4",
-    "@pipcook/costa": "^2.1.4",
+    "@pipcook/costa": "^2.1.5",
     "bent": "^7.3.12",
     "chalk": "^3.0.0",
     "cli-progress": "^3.9.0",
